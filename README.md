@@ -1,6 +1,6 @@
 ## Front-end developer exercise
 
-This repo is the starting point for the VINCO Invest technical interview for front-end developers.
+This repo is the starting point for the Tillit technical interview for front-end developers.
 It's a basic `create-react-app` with the service worker and PWA bits stripped out, and the root
 component just displays 'Hello, World'. The exercise is written in JavaScript.
 
